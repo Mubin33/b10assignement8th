@@ -1,0 +1,275 @@
+[
+  {
+    "product_id": "S003",
+    "product_title": "Smartphone Max Plus",
+    "product_image": "https://www.stuff.tv/wp-content/uploads/sites/2/2024/07/Best-smartphones-on-sale-2024-lead.jpg?w=1080",
+    "category": "Smartphones",
+    "price": 999.99,
+    "description": "High-end smartphone with premium build and large display.",
+    "Specification": [
+      "6.9-inch OLED display",
+      "256GB storage",
+      "Quad-lens rear camera",
+      "5000mAh battery"
+    ],
+    "availability": false,
+    "rating": 4.1
+  },
+    {
+      "product_id": "L002",
+      "product_title": "Ultrabook X13",
+      "product_image": "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1682921339&width=1296",
+      "category": "Laptops",
+      "price": 999.99,
+      "description": "Lightweight ultrabook with fast performance and long battery life.",
+      "Specification": [
+        "13.3-inch Retina display",
+        "8GB RAM",
+        "256GB SSD",
+        "Intel Core i5 processor"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "L004",
+      "product_title": "Convertible Laptop T10",
+      "product_image": "https://i.rtings.com/assets/pages/6S2WXjTl/best-laptops-20240516-medium.jpg?format=auto",
+      "category": "Laptops",
+      "price": 1199.99,
+      "description": "2-in-1 convertible laptop with touchscreen and stylus support.",
+      "Specification": [
+        "14-inch FHD touchscreen",
+        "16GB RAM",
+        "512GB SSD",
+        "Intel Core i7 processor"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "S001",
+      "product_title": "Smartphone Z5",
+      "product_image": "https://cdn.thewirecutter.com/wp-content/media/2024/05/smartphone-2048px-1013.jpg?auto=webp&quality=75&width=1024",
+      "category": "Smartphones",
+      "price": 799.99,
+      "description": "Flagship smartphone with advanced camera and fast processor.",
+      "Specification": [
+        "6.7-inch AMOLED display",
+        "128GB storage",
+        "Triple-lens rear camera",
+        "4500mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "S004",
+      "product_title": "Compact Smartphone Mini",
+      "product_image": "https://petapixel.com/assets/uploads/2023/04/Best-Smartphones-for-photography-2024.jpg",
+      "category": "Smartphones",
+      "price": 599.99,
+      "description": "Compact smartphone with impressive specs in a small form factor.",
+      "Specification": [
+        "5.8-inch OLED display",
+        "128GB storage",
+        "Dual-lens rear camera",
+        "3000mAh battery"
+      ],
+      "availability": true,
+      "rating": 5
+    },
+    {
+      "product_id": "L003",
+      "product_title": "Gaming Laptop G5",
+      "product_image": "https://www.digitaltrends.com/wp-content/uploads/2021/11/macbook-pro-2021-16.jpg?resize=1200%2C630&p=1",
+      "category": "Laptops",
+      "price": 1499.99,
+      "description": "High-performance gaming laptop with powerful graphics.",
+      "Specification": [
+        "15.6-inch QHD display",
+        "32GB RAM",
+        "1TB SSD",
+        "NVIDIA GeForce RTX 3070"
+      ],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": "T001",
+      "product_title": "4K Ultra HD TV 50 Inch",
+      "product_image": "https://digi2l.co.in/wp-content/uploads/2023/05/television-houseplants-room-scene-generative-ai-jpg.webp",
+      "category": "Televisions",
+      "price": 499.99,
+      "description": "50-inch 4K UHD TV with stunning clarity and built-in streaming apps.",
+      "Specification": [
+        "4K UHD resolution",
+        "HDR10 support",
+        "Smart TV features",
+        "Voice control support"
+      ],
+      "availability": true,
+      "rating": 1.4
+    },
+    {
+      "product_id": "T002",
+      "product_title": "Smart OLED TV 65 Inch",
+      "product_image": "https://5.imimg.com/data5/TP/LF/MY-13026336/selection_012-500x500.png",
+      "category": "Televisions",
+      "price": 1299.99,
+      "description": "65-inch OLED TV with vibrant colors and deep blacks.",
+      "Specification": [
+        "4K OLED display",
+        "Dolby Vision support",
+        "Smart TV with apps",
+        "Voice remote"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "T003",
+      "product_title": "Budget LED TV 43 Inch",
+      "product_image": "https://media.istockphoto.com/id/1395191574/photo/black-led-tv-television-screen-blank-isolated.jpg?s=612x612&w=0&k=20&c=ps14JZJh0ebkINcbQyHFsR1J5EC7ozkj_WO7Fh_9IOI=",
+      "category": "Televisions",
+      "price": 299.99,
+      "description": "Affordable 43-inch LED TV with good picture quality.",
+      "Specification": [
+        "1080p resolution",
+        "Built-in apps",
+        "HDMI and USB ports",
+        "Energy-efficient"
+      ],
+      "availability": false,
+      "rating": 4.1
+    },
+    {
+      "product_id": "S002",
+      "product_title": "Budget Smartphone A10",
+      "product_image": "https://assets.gadgetandgear.com/upload/media/1711356480198222.jpeg",
+      "category": "Smartphones",
+      "price": 199.99,
+      "description": "Affordable smartphone with good performance and decent camera.",
+      "Specification": [
+        "6.2-inch LCD display",
+        "64GB storage",
+        "Dual-lens rear camera",
+        "3500mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "T004",
+      "product_title": "Smart QLED TV 75 Inch",
+      "product_image": "https://ecom.rangs.com.bd/storage/10698/860X740-01.jpg",
+      "category": "Televisions",
+      "price": 1999.99,
+      "description": "75-inch QLED TV with stunning brightness and color accuracy.",
+      "Specification": [
+        "4K QLED display",
+        "HDR10+ support",
+        "Smart TV capabilities",
+        "Quantum dot technology"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "H001",
+      "product_title": "Robot Vacuum Cleaner V3",
+      "product_image": "https://m.media-amazon.com/images/I/41O76SC6tSL._AC_.jpg",
+      "category": "Home Appliances",
+      "price": 349.99,
+      "description": "Smart robot vacuum with advanced navigation and voice control.",
+      "Specification": [
+        "Lidar navigation",
+        "Wi-Fi connectivity",
+        "Auto recharge",
+        "Compatible with Alexa and Google Home"
+      ],
+      "availability": true,
+      "rating": 2.2
+    },
+    {
+      "product_id": "H002",
+      "product_title": "Air Purifier Max",
+      "product_image": "https://tubble.com/wp-content/uploads/2022/06/Tubble-Air-Purifier-Max-product.png",
+      "category": "Home Appliances",
+      "price": 199.99,
+      "description": "High-efficiency air purifier for cleaner indoor air.",
+      "Specification": [
+        "True HEPA filter",
+        "Covers up to 600 sq ft",
+        "Low noise operation",
+        "Auto mode and sleep mode"
+      ],
+      "availability": true,
+      "rating": 3.5
+    },
+    {
+      "product_id": "H003",
+      "product_title": "Smart Dehumidifier 40L",
+      "product_image": "https://layawaydepot.co.nz/cdn/shop/files/HOMOPS0019__1_800x.jpg?v=1719980478",
+      "category": "Home Appliances",
+      "price": 299.99,
+      "description": "Large-capacity smart dehumidifier with app control.",
+      "Specification": [
+        "Removes 40L of moisture per day",
+        "Wi-Fi enabled",
+        "Timer function",
+        "Auto shut-off"
+      ],
+      "availability": false,
+      "rating": 3.3
+    },
+    {
+      "product_id": "H004",
+      "product_title": "Portable Washing Machine",
+      "product_image": "https://images.othoba.com/images/thumbs/0630398_foldable-mini-washing-machine.webp",
+      "category": "Home Appliances",
+      "price": 159.99,
+      "description": "Compact portable washing machine for small spaces.",
+      "Specification": [
+        "5kg capacity",
+        "LED display",
+        "Quick wash feature",
+        "Energy-efficient"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "H005",
+      "product_title": "Microwave Oven 800W",
+      "product_image": "https://acmartbd.com/wp-content/uploads/2016/08/Sharp-R-62AO-20-Liter-Microwave-Oven.jpg",
+      "category": "Home Appliances",
+      "price": 99.99,
+      "description": "800W microwave oven with multiple cooking functions.",
+      "Specification": [
+        "20L capacity",
+        "LED display",
+        "Defrost setting",
+        "Child lock"
+      ],
+      "availability": true,
+      "rating": 4.0
+    },
+    {
+      "product_id": "L001",
+      "product_title": "Laptop Pro 15",
+      "product_image": "https://cdn.thewirecutter.com/wp-content/media/2023/06/bestlaptops-2048px-9765.jpg",
+      "category": "Laptops",
+      "price": 1299.99,
+      "description": "15-inch laptop with powerful performance for professionals.",
+      "Specification": [
+        "15.6-inch Full HD display",
+        "16GB RAM",
+        "512GB SSD",
+        "Intel Core i7 processor"
+      ],
+      "availability": true,
+      "rating": 4.7
+    }
+  ]
+  

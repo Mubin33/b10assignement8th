@@ -1,0 +1,179 @@
+[
+    {
+        "id": 1,
+        "author_name": "John Doe",
+        "author_img": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_16_9_1200x675/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=07tF_dnG",
+        "review": "Amazing product! It works exactly as described and has made my life easier.",
+        "rating": 5,
+        "product_image": "https://cdn.thewirecutter.com/wp-content/media/2023/06/bestlaptops-2048px-9765.jpg"
+
+    },
+    {
+        "id": 2,
+        "author_name": "Jane Smith",
+        "author_img": "https://neweralive.na/wp-content/uploads/2024/06/lloyd-sikeba.jpg",
+        "review": "Good quality and fast shipping. Customer service was helpful with my questions.",
+        "rating": 4,
+        "product_image": "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1682921339&width=1296"
+
+    },
+    {
+        "id": 3,
+        "author_name": "Emily Johnson",
+        "author_img": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg",
+        "review": "Satisfactory purchase. It gets the job done but could be improved.",
+        "rating": 3,
+        "product_image": "https://www.digitaltrends.com/wp-content/uploads/2021/11/macbook-pro-2021-16.jpg?resize=1200%2C630&p=1"
+    },
+    {
+        "id": 4,
+        "author_name": "Michael Brown",
+        "author_img": "https://t3.ftcdn.net/jpg/01/90/84/20/360_F_190842042_rDz13gn79ItFx6W4nY54zE2VV3L6vUFc.jpg",
+        "review": "The product didn't meet my expectations and was damaged upon arrival.",
+        "rating": 2,
+        "product_image": "https://i.rtings.com/assets/pages/6S2WXjTl/best-laptops-20240516-medium.jpg?format=auto"
+
+    },
+    {
+        "id": 5,
+        "author_name": "Sarah Davis",
+        "author_img": "https://media.istockphoto.com/id/1093999842/photo/portrait-of-handsome-laughing-business-man-isolated-on-gray-background.jpg?s=612x612&w=is&k=20&c=Mv9XfOIVZNdI7bA9prScXeIe-prGwfw5yB69NSgMMRE=",
+        "review": "Worst purchase ever. It broke within a week. Don’t waste your money.",
+        "rating": 1,
+        "product_image": "https://cdn.thewirecutter.com/wp-content/media/2024/05/smartphone-2048px-1013.jpg?auto=webp&quality=75&width=1024"
+    },
+    {
+        "id": 6,
+        "author_name": "Chris Wilson",
+        "author_img": "https://media.istockphoto.com/id/914847518/photo/portrait-of-young-handsome-guy.jpg?s=612x612&w=is&k=20&c=BMDXnZabOfWzBx-pJBhMNPfGC37a3F7z0gyXVC5L3X8=",
+        "review": "Exceptional product with fast delivery. Highly recommend!",
+        "rating": 5,
+        "product_image": "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1682921339&width=1296"
+
+    },
+    {
+        "id": 7,
+        "author_name": "Jessica Lee",
+        "author_img": "https://www.psychologs.com/wp-content/uploads/2024/01/8-tips-to-be-a-jolly-person.jpg",
+        "review": "Good value for the price. Would buy again.",
+        "rating": 4,
+        "product_image": "https://assets.gadgetandgear.com/upload/media/1711356480198222.jpeg"
+
+    },
+    {
+        "id": 8,
+        "author_name": "David Clark",
+        "author_img": "https://media.istockphoto.com/id/1332100919/vector/man-icon-black-icon-person-symbol.jpg?s=612x612&w=0&k=20&c=AVVJkvxQQCuBhawHrUhDRTCeNQ3Jgt0K1tXjJsFy1eg=",
+        "review": "Decent quality but not as durable as expected.",
+        "rating": 3,
+        "product_image": "https://www.stuff.tv/wp-content/uploads/sites/2/2024/07/Best-smartphones-on-sale-2024-lead.jpg?w=1080"
+
+    },
+    {
+        "id": 9,
+        "author_name": "Megan Lopez",
+        "author_img": "https://www.jamsadr.com/images/neutrals/person-donald-900x1080.jpg",
+        "review": "Arrived late and the product quality was poor. Disappointed.",
+        "rating": 2,
+        "product_image": "https://petapixel.com/assets/uploads/2023/04/Best-Smartphones-for-photography-2024.jpg"
+
+    },
+    {
+        "id": 10,
+        "author_name": "Peter Harris",
+        "author_img": "https://media.istockphoto.com/id/1332100919/vector/man-icon-black-icon-person-symbol.jpg?s=612x612&w=0&k=20&c=AVVJkvxQQCuBhawHrUhDRTCeNQ3Jgt0K1tXjJsFy1eg=",
+        "review": "Absolutely terrible. I want a refund.",
+        "rating": 1,
+        "product_image": "https://digi2l.co.in/wp-content/uploads/2023/05/television-houseplants-room-scene-generative-ai-jpg.webp"
+
+    },
+    {
+        "id": 11,
+        "author_name": "Laura Martinez",
+        "author_img": "https://www.jamsadr.com/images/neutrals/warren-james-900x1080.jpg",
+        "review": "Very happy with this purchase. The product is fantastic!",
+        "rating": 5,
+        "product_image": "https://5.imimg.com/data5/TP/LF/MY-13026336/selection_012-500x500.png"
+
+    },
+    {
+        "id": 12,
+        "author_name": "Tom Walker",
+        "author_img": "https://www.jordanharbinger.com/wp-content/uploads/2018/09/be-the-most-interesting.jpg",
+        "review": "It’s a decent product but the shipping took longer than expected.",
+        "rating": 3,
+        "product_image": "https://media.istockphoto.com/id/1395191574/photo/black-led-tv-television-screen-blank-isolated.jpg?s=612x612&w=0&k=20&c=ps14JZJh0ebkINcbQyHFsR1J5EC7ozkj_WO7Fh_9IOI="
+    },
+    {
+        "id": 13,
+        "author_name": "Kathy Wilson",
+        "author_img": "https://www.shutterstock.com/image-photo/funny-smiling-unshaven-male-wonk-260nw-744194878.jpg",
+        "review": "Love it! Exceeded my expectations.",
+        "rating": 5,
+        "product_image": "https://www.digitaltrends.com/wp-content/uploads/2021/11/macbook-pro-2021-16.jpg?resize=1200%2C630&p=1"
+
+    },
+    {
+        "id": 14,
+        "author_name": "James Scott",
+        "author_img": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1419411609-20240305012817824.jpg?c=16x9&q=h_833,w_1480,c_fill",
+        "review": "Good for the price, but could use some improvements.",
+        "rating": 3,
+        "product_image": "https://digi2l.co.in/wp-content/uploads/2023/05/television-houseplants-room-scene-generative-ai-jpg.webp"
+
+    },
+    {
+        "id": 15,
+        "author_name": "Sophia Turner",
+        "author_img": "https://tlz.ae/wp-content/uploads/2023/01/One-person-LLC-Dubai-featured-image.png",
+        "review": "Very poor quality and not as described.",
+        "rating": 1,
+        "product_image": "https://www.stuff.tv/wp-content/uploads/sites/2/2024/07/Best-smartphones-on-sale-2024-lead.jpg?w=1080"
+
+    },
+    {
+        "id": 16,
+        "author_name": "Daniel King",
+        "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2c693CVWaIiMgls8IenJ5AerGk61KWu-6V2zWAxah5aCjKy723cVMaxMjNMDeuUM1KoY&usqp=CAU",
+        "review": "Fantastic product! Highly recommend it to everyone.",
+        "rating": 5,
+        "product_image": "https://ecom.rangs.com.bd/storage/10698/860X740-01.jpg"
+
+    },
+    {
+        "id": 17,
+        "author_name": "Olivia Green",
+        "author_img": "https://compote.slate.com/images/7c751eea-0ed3-4906-a27e-88706efaab7e.jpg",
+        "review": "Good product but the customer support could be better.",
+        "rating": 4,
+        "product_image": "https://m.media-amazon.com/images/I/41O76SC6tSL._AC_.jpg"
+
+    },
+    {
+        "id": 18,
+        "author_name": "Henry Baker",
+        "author_img": "https://images.inc.com/uploaded_files/image/1024x576/getty_481292845_77896.jpg",
+        "review": "Average product. Works fine but nothing special.",
+        "rating": 3,
+        "product_image": "https://tubble.com/wp-content/uploads/2022/06/Tubble-Air-Purifier-Max-product.png"
+
+    },
+    {
+        "id": 19,
+        "author_name": "Ella Carter",
+        "author_img": "https://greenhillrecovery.com/wp-content/uploads/2021/07/whole-person-approach-hero-image.jpg",
+        "review": "Not worth the price. Low quality and disappointing service.",
+        "rating": 2,
+        "product_image": "https://layawaydepot.co.nz/cdn/shop/files/HOMOPS0019__1_800x.jpg?v=1719980478"
+
+    },
+    {
+        "id": 20,
+        "author_name": "Lucas Robinson",
+        "author_img": "https://greenhillrecovery.com/wp-content/uploads/2021/07/whole-person-approach-hero-image.jpg",
+        "review": "Terrible experience. Would not recommend to anyone.",
+        "rating": 1,
+        "product_image": "https://images.othoba.com/images/thumbs/0630398_foldable-mini-washing-machine.webp"
+
+    }
+]
