@@ -1,0 +1,23 @@
+[
+  {
+    "product_id": "L004",
+    "category": "Laptops"
+  },
+  {
+    "product_id": "S004",
+    "category": "Smartphones"
+  },
+  {
+    "product_id": "T004",
+    "category": "Televisions"
+  },
+  {
+    "product_id": "H005",
+    "category": "Home Appliances"
+  },
+  {
+    "product_id": "A001",
+    "category": "Airpods"
+  }
+  ]
+  
